@@ -1,5 +1,4 @@
 #!/bin/sh
-CROSS_COMPILE=aarch64-linux-gnu-
 
 while [ -n "$1" ]; do
   case "$1" in
