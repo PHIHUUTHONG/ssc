@@ -1,1 +1,1 @@
-./ssc 
+./ssc echo.sh kaka.sh
