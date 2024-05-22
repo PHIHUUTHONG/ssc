@@ -13,3 +13,9 @@ jobs:
         run: |
           # Kakathic         
           bash test.sh
+      - name: Upload binary
+        uses: softprops/action-gh-release@v2
+        with:
+          name: upload
+          tag_name: tmp
+          files: kaka.sh
