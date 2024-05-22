@@ -1,5 +1,7 @@
 > [!Note]
 > Tool runs using github actions
+> 
+> [![Ssc](https://github.com/Zenlua/ssc/actions/workflows/Ssc.yml/badge.svg)](https://github.com/Zenlua/ssc/actions/workflows/Ssc.yml)
 
 # Simple Script Compiler
 
