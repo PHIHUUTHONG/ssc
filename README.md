@@ -1,4 +1,4 @@
-> [ !Note ]
+> [!Note]
 > Tool runs using github actions
 
 # Simple Script Compiler
