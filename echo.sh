@@ -1,1 +1,1 @@
-echo test
+echo "Hello world! 1: $SSC_INTERPRETER_PATH 2: $SSC_EXECUTABLE_PATH 3: $SSC_ARGV0 4: $SSC_EXTRACT_DIR 5: $@"
