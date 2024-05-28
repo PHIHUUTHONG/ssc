@@ -6,7 +6,7 @@ on:
       - '.github/workflows/Ssc.yml'
       - 'echo.sh'
 permissions: write-all
-jobs:
+jobs: 
   build:
     name: 'See progress'
     runs-on: ubuntu-latest
