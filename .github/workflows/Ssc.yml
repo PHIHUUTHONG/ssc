@@ -1,6 +1,10 @@
 name: Ssc
 on:
-  workflow_dispatch: 
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/Ssc.yml'
+      - 'echo.sh'
 permissions: write-all
 jobs:
   build:
